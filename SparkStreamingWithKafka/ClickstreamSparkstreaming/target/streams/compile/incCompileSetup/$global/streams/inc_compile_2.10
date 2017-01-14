@@ -1,0 +1,249 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\ClickstreamSparkstreaming$$anonfun$1.class
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\ClickstreamSparkstreaming$$anonfun$main$1$$anonfun$2.class
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\ClickstreamSparkstreaming$$anonfun$main$1$$anonfun$3.class
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\ClickstreamSparkstreaming$$anonfun$main$1$$typecreator1$1.class
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\ClickstreamSparkstreaming$$anonfun$main$1.class
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\ClickstreamSparkstreaming$.class
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\ClickstreamSparkstreaming.class
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\Record$.class
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\Record.class
+binary dependencies:
+9 items
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> C:\Program Files\Java\jdk1.8.0_71\jre\lib\rt.jar
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> C:\Users\nandakishore\.ivy2\cache\org.apache.kafka\kafka_2.10\jars\kafka_2.10-0.8.2.1.jar
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.2.jar
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-hive_2.10\jars\spark-hive_2.10-1.6.2.jar
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-1.6.2.jar
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-streaming-kafka_2.10\jars\spark-streaming-kafka_2.10-1.6.2.jar
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-streaming_2.10\jars\spark-streaming_2.10-1.6.2.jar
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> C:\Users\nandakishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.5.jar
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> C:\Users\nandakishore\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.10.5.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ClickstreamSparkstreaming
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ClickstreamSparkstreaming$
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ClickstreamSparkstreaming$$anonfun$1
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ClickstreamSparkstreaming$$anonfun$main$1
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ClickstreamSparkstreaming$$anonfun$main$1$$anonfun$2
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ClickstreamSparkstreaming$$anonfun$main$1$$anonfun$3
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ClickstreamSparkstreaming$$anonfun$main$1$$typecreator1$1
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Record
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Record$
+used names:
+129 items
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> !=
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> $m
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> $m$untyped
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> $typecreator1
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> $u
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> &&
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ->
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> <
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> <init>
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ==
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> AbstractFunction4
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> AnyRef
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Array
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ClassTag
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ClickstreamSparkstreaming
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> HiveContext
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> KafkaUtils
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Map
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Mirror
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> None
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Nothing
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Predef
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Product
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> RDD
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Record
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ScalaRunTime
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Seconds
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Serializable
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Singleton
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> SparkConf
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> SparkContext
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> StorageLevel
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> StreamingContext
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> String
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> StringContext
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> StringDecoder
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> System
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Time
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Type
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> TypeCreator
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> TypeTag
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> U
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Unit
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> Universe
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> _1
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> _2
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> _hashCode
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> _toString
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> any2ArrowAssoc
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> apache
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> apply
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> args
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> arrayClass
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> asInstanceOf
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> asType
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> augmentString
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> awaitTermination
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> brokers
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> conf
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> createDirectStream
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> eq
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> err
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> eventid
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> exit
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> foreachRDD
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> get
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> getClass
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> getClassLoader
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> hive
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> implicits
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ip
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> isEmpty
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> isInstanceOf
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> java
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> kafka
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> kafkaParams
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> lang
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> length
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> lengthCompare
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> lines
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> map
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> materializeClassTag
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> materializeTypeTag
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> messages
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> messagesDataFrame
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> messagesqueryDataFrame
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> org
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> package
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> println
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> rdd
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> rddToDataFrameHolder
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> recordtime
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> refArrayOps
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> reflect
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> registerTempTable
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> runtime
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> runtimeMirror
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> s
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> sc
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> scala
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> serializer
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> setAppName
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> show
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> spark
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> sparkConf
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> split
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> sql
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> sqlContext
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ssc
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> start
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> staticClass
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> storage
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> streaming
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> stripMargin
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> time
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> toDF
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> toSet
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> toString
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> toTypeConstructor
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> topics
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> topicsSet
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> typedProductIterator
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> unapplySeq
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> unary_!
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> unchecked
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> universe
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> url
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> w
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> ||
+product stamps:
+9 items
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\ClickstreamSparkstreaming$$anonfun$1.class -> lastModified(1483097370237)
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\ClickstreamSparkstreaming$$anonfun$main$1$$anonfun$2.class -> lastModified(1483097370283)
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\ClickstreamSparkstreaming$$anonfun$main$1$$anonfun$3.class -> lastModified(1483097370294)
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\ClickstreamSparkstreaming$$anonfun$main$1$$typecreator1$1.class -> lastModified(1483097370331)
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\ClickstreamSparkstreaming$$anonfun$main$1.class -> lastModified(1483097370271)
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\ClickstreamSparkstreaming$.class -> lastModified(1483097370219)
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\ClickstreamSparkstreaming.class -> lastModified(1483097370160)
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\Record$.class -> lastModified(1483097370357)
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\target\scala-2.10\classes\Record.class -> lastModified(1483097370386)
+source stamps:
+1 items
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> hash(34c23f2411d253783f4fb7432de2fbf35b1fd05c)
+binary stamps:
+9 items
+C:\Program Files\Java\jdk1.8.0_71\jre\lib\rt.jar -> lastModified(1454011024123)
+C:\Users\nandakishore\.ivy2\cache\org.apache.kafka\kafka_2.10\jars\kafka_2.10-0.8.2.1.jar -> lastModified(1424989920000)
+C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.2.jar -> lastModified(1466377219000)
+C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-hive_2.10\jars\spark-hive_2.10-1.6.2.jar -> lastModified(1466377121000)
+C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-1.6.2.jar -> lastModified(1466377396000)
+C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-streaming-kafka_2.10\jars\spark-streaming-kafka_2.10-1.6.2.jar -> lastModified(1466377260000)
+C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-streaming_2.10\jars\spark-streaming_2.10-1.6.2.jar -> lastModified(1466377439000)
+C:\Users\nandakishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.5.jar -> lastModified(1425002040000)
+C:\Users\nandakishore\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.10.5.jar -> lastModified(1425002040000)
+class names:
+9 items
+C:\Program Files\Java\jdk1.8.0_71\jre\lib\rt.jar -> java.lang.Object
+C:\Users\nandakishore\.ivy2\cache\org.apache.kafka\kafka_2.10\jars\kafka_2.10-0.8.2.1.jar -> kafka.serializer.StringDecoder$
+C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.2.jar -> org.apache.spark.storage.StorageLevel
+C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-hive_2.10\jars\spark-hive_2.10-1.6.2.jar -> org.apache.spark.sql.hive.HiveContext
+C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-1.6.2.jar -> org.apache.spark.sql.SQLImplicits
+C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-streaming-kafka_2.10\jars\spark-streaming-kafka_2.10-1.6.2.jar -> org.apache.spark.streaming.kafka.KafkaUtils$
+C:\Users\nandakishore\.ivy2\cache\org.apache.spark\spark-streaming_2.10\jars\spark-streaming_2.10-1.6.2.jar -> org.apache.spark.streaming.dstream.DStream
+C:\Users\nandakishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.5.jar -> scala.runtime.AbstractFunction4
+C:\Users\nandakishore\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.10.5.jar -> scala.reflect.api.TypeCreator
+internal apis:
+1 items
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB/3eZrAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPNI3N50AAZub3RpZnlzcQB+AAx4SzjudAACaXBzcQB+AAzQ/6bwdAAEd2FpdHNxAH4ADGIS9Od0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADBPlbxB0AA0kYXNJbnN0YW5jZU9mc3EAfgAM/Kzt+HQADHByb2R1Y3RBcml0eXNxAH4ADJwRO3Z0AAN1cmxzcQB+AAzFzwjcdAAGZXF1YWxzc3EAfgAMBMfUEXQADGFzSW5zdGFuY2VPZnNxAH4ADKx0zwt0AAxzeW5jaHJvbml6ZWRzcQB+AAw0PPvOdAANJGlzSW5zdGFuY2VPZnNxAH4ADE3qsc90AApyZWNvcmR0aW1lc3EAfgAM75ocxnQACGNhbkVxdWFsc3EAfgAMLNKoeHQADmNvcHkkZGVmYXVsdCQ0c3EAfgAMELA1cHQABG1haW5zcQB+AAx03xchdAANcHJvZHVjdFByZWZpeHNxAH4ADG+/my90AAlub3RpZnlBbGxzcQB+AAz6xiFCdAAMaXNJbnN0YW5jZU9mc3EAfgAMPS9JvHQAGUNsaWNrc3RyZWFtU3BhcmtzdHJlYW1pbmdzcQB+AAwKhhwIdAAGPGluaXQ+c3EAfgAMWkG08XQAAj09c3EAfgAMpL/OZ3QABlJlY29yZHNxAH4ADOhofFZ0AAVjbG9uZXNxAH4ADKXqAXx0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADA0RvGZ0AARjb3B5c3EAfgAMp4diVHQACHRvU3RyaW5nc3EAfgAM51DyUHQAAiE9c3EAfgAMWkqaonQACGdldENsYXNzc3EAfgAMzjpKMnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMtzvsE3QAAm5lc3EAfgAM4oZ0uXQAAmVxc3EAfgAMmfkBwnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADN6o/Wp0AAIjI3NxAH4ADCyXLiZ0AAhmaW5hbGl6ZXNxAH4ADIIvj3B0AA5wcm9kdWN0RWxlbWVudHNxAH4ADK4JlvV0AAhoYXNoQ29kZXNxAH4ADPIRvV10AAdldmVudGlkc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AYXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AeXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AeABwc3EAfgB9c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGFMAAlpbmhlcml0ZWRxAH4AYUwAB3BhcmVudHNxAH4AYXhxAH4AgXNxAH4AeABwc3EAfgB9dXEAfgBcAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBicQB+AGt1cQB+AGwAAAAAc3EAfgBuAHEAfgArdXEAfgBwAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIB0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCAc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCedXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ai3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4Ac3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AklsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AgHNxAH4AkXQABUFycmF5cQB+AJd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AkXQABlN0cmluZ3NxAH4AlXNxAH4AmHVxAH4AmwAAAANzcQB+AJ10AARqYXZhc3EAfgCddAAEbGFuZ3EAfgCic3EAfgB4AHBzcQB+AH11cQB+AFwAAAAAc3EAfgB4AHBzcQB+AH11cQB+ALYAAAACc3EAfgCRdAAGT2JqZWN0cQB+ALpzcQB+AJF0AANBbnlxAH4Al3NxAH4AXnEAfgBrdXEAfgBsAAAAAHNxAH4AbgBxAH4AOXVxAH4AcAAAAAB+cQB+AHJ0AAhDbGFzc0RlZnVxAH4AdgAAAABzcQB+AHgAcHNxAH4AfXEAfgCCc3EAfgB4AHBzcQB+AH1zcQB+AIVzcQB+AHgAcHNxAH4AfXVxAH4AXAAAAABzcQB+AHgAcHNxAH4AfXVxAH4AXAAAAABzcQB+AHgAcHNxAH4AfXVxAH4AtgAAAAZzcQB+AJF0AAxTZXJpYWxpemFibGVzcQB+AJVzcQB+AJh1cQB+AJsAAAACc3EAfgCdcQB+AKBxAH4AonNxAH4AkXEAfgDhc3EAfgCVc3EAfgCYdXEAfgCbAAAAA3NxAH4AnXEAfgC+c3EAfgCddAACaW9xAH4AonNxAH4AkXQAB1Byb2R1Y3RxAH4A4nNxAH4AkXQABkVxdWFsc3EAfgDic3EAfgCRcQB+AMhzcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCdcQB+AL5zcQB+AJ1xAH4AwHEAfgCic3EAfgCRcQB+AMpxAH4A4nVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZT33MaXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFNFOlxOYW5keVxDbG91ZHdpY2tcQVdTXFByb2plY3RzXENsaWNrc3RyZWFtU3BhcmtzdHJlYW1pbmdcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDTCPyQR0lN4P0+3Qy3i+/NbH9Bc
+external apis:
+0 items
+source infos:
+1 items
+E:\Nandy\Cloudwick\AWS\Projects\ClickstreamSparkstreaming\src\main\scala\ClickstreamSparkstreaming.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWU99zGl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0U6XE5hbmR5XENsb3Vkd2lja1xBV1NcUHJvamVjdHNcQ2xpY2tzdHJlYW1TcGFya3N0cmVhbWluZ1x0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
