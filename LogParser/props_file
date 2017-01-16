@@ -1,0 +1,6 @@
+spark.executor.memory 6g
+spark.driver.memory 1g
+spark.executor.instances 3
+spark.executor.cores 4
+spark.yarn.driver.memoryOverhead 2048
+spark.yarn.executor.memoryOverhead 2048
