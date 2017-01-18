@@ -1,0 +1,8 @@
+username=root
+password="changeme"
+
+nullString="\\\\\\\\\\\\\\\\N"
+nonNullString="999999999"
+
+tablesList="Tables_to_Import.txt"
+fetchSize="10000000"

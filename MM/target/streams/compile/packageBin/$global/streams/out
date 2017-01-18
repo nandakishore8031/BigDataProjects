@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging E:\Nandy\Cloudwick\ModernizingMedicine_Project\MM\target\scala-2.10\mm_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	mm.class[0m
+[0m[[0mdebug[0m] [0m	  E:\Nandy\Cloudwick\ModernizingMedicine_Project\MM\target\scala-2.10\classes\mm.class[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  E:\Nandy\Cloudwick\ModernizingMedicine_Project\MM\target\scala-2.10\classes\application.conf[0m
+[0m[[0mdebug[0m] [0m	mm$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	  E:\Nandy\Cloudwick\ModernizingMedicine_Project\MM\target\scala-2.10\classes\mm$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	mm$.class[0m
+[0m[[0mdebug[0m] [0m	  E:\Nandy\Cloudwick\ModernizingMedicine_Project\MM\target\scala-2.10\classes\mm$.class[0m
+[0m[[0mdebug[0m] [0m	mm$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  E:\Nandy\Cloudwick\ModernizingMedicine_Project\MM\target\scala-2.10\classes\mm$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	mm$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  E:\Nandy\Cloudwick\ModernizingMedicine_Project\MM\target\scala-2.10\classes\mm$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	mm$$anonfun$getMinMax$1.class[0m
+[0m[[0mdebug[0m] [0m	  E:\Nandy\Cloudwick\ModernizingMedicine_Project\MM\target\scala-2.10\classes\mm$$anonfun$getMinMax$1.class[0m
+[0m[[0mdebug[0m] [0m	file1.txt[0m
+[0m[[0mdebug[0m] [0m	  E:\Nandy\Cloudwick\ModernizingMedicine_Project\MM\target\scala-2.10\classes\file1.txt[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
